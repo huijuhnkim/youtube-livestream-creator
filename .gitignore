@@ -38,4 +38,4 @@ build/
 .DS_Store
 
 ### Auth Tokens ###
-client_secret.json
+/client_secret.json
